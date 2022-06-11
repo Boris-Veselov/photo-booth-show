@@ -31,8 +31,8 @@ function App() {
       <main>
         {!contactSelected ? (
           <>
-            <Gallery currentCategory={currentCategory}></Gallery>
             <About></About>
+            <Gallery currentCategory={currentCategory}></Gallery>
           </>
         ) : (
             <ContactForm></ContactForm>
