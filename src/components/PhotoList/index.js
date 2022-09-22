@@ -4,7 +4,7 @@ import Modal from '../Modal';
 const PhotoList = ({ category }) => {
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [currentPhoto, setCurrentPhoto] = useState();
-
+console.log(category)
   const [photos] = useState([
     {
       name: 'Grocery aisle',
