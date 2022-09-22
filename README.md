@@ -26,6 +26,7 @@ A website that showcases pirtures taking by a professional photographer.
 * CSS
 
 ## Preview
+<img width="1123" alt="Screen Shot 2022-09-22 at 1 20 14 PM" src="https://user-images.githubusercontent.com/96749114/191811690-d6d9d4f1-1843-46b5-90ce-893b3e02a9af.png">
 
 ## Website Link
 
